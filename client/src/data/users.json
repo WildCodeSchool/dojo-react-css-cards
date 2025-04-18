@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Miss Light",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "image": "https://raw.githubusercontent.com/WildCodeSchool/dojo-react-css-cards/refs/heads/main/docs/images/miss-light.png"
+  },
+  {
+    "name": "Mr. Who",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "image": "https://raw.githubusercontent.com/WildCodeSchool/dojo-react-css-cards/refs/heads/main/docs/images/mr-who.png"
+  },
+  {
+    "name": "Mr. Num",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "image": "https://raw.githubusercontent.com/WildCodeSchool/dojo-react-css-cards/refs/heads/main/docs/images/mr-num.png"
+  },
+  {
+    "name": "Miss V.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "image": "https://raw.githubusercontent.com/WildCodeSchool/dojo-react-css-cards/refs/heads/main/docs/images/miss-v.png"
+  }
+]
