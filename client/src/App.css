@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
 :root {
   --spacing: .5rem;
   --spacing-2: calc(var(--spacing) * 2);
@@ -5,6 +7,10 @@
   --spacing-4: calc(var(--spacing) * 4);
   --spacing-5: calc(var(--spacing) * 5);
   /** define color and other variables here */
+  --blue: #598fb6;
+  --grey: #d9d9d9;
+  --black: #333333;
+  --white: #ffffff;
 }
 
 * {
@@ -14,6 +20,8 @@
 body {
   margin: 0;
   padding: 0;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
 
   #root {
     display: flex;
